@@ -30,7 +30,7 @@ This is a **Blockchain-based Financial Management System** built using the MERN 
 
 ## 📸 Screenshots
 
-**DASHBORD VIEW** 
+**DASHBOARD VIEW** 
 ![Screenshot (76)](https://github.com/user-attachments/assets/a3ec3b3f-f26a-4960-9c8d-7af4e0690c4a)
 
 
